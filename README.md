@@ -1,19 +1,19 @@
 # <b>IMPORTANT ANNOUNCEMENT</b>
 
 
-This is the reference code for [DecCash](https://deccash.info) cryptocurrency. Read the Changelogs.txt for more info about the current fork.
+This is the reference code for [DecCash](https://deccash.com) cryptocurrency. Read the Changelogs.txt for more info about the current fork.
 
 ### DecCash is based on the [TurtleCoin](https://github.com/turtlecoin) v0.5.0 code base.
 
-* Homepage: [DecCash](http://deccash.info)
+* Homepage: [DecCash](http://deccash.com)
 * Source code repository: [DecCash GitHub](https://github.com/deccash/deccashcoin)
-* Announcement thread: [DecCash BitcoinTalk](https://bitcointalk.org/index.php?topic=3086019.0)
-* Discord: [DecCash Discord](https://discord.gg/UmZExyz)
-* Twitter: [DecCash Twitter](https://twitter.com/dxcscoin)
-* Telegram: [DecCash Telegram](https://t.me/joinchat/HOvygRE-6UnWOzoh72NVMA)
-* Reddit: [DecCash Reddit](https://www.reddit.com/r/deccashcoin)
-* Whitepaper: [DecCash Whitepaper](http://deccash.info/whitepaper_deccash.zip)
-* Block explorer: [DecCash Block explorer](http://deccash-explorer.online)
+* Announcement thread: [DecCash BitcoinTalk](https://bitcointalk.org/index.php?topic=019.0)
+* Discord: [DecCash Discord](https://discord.gg/ZExyz)
+* Twitter: [DecCash Twitter](https://twitter.com/dxoin)
+* Telegram: [DecCash Telegram](https://t.me/joinchat/HOv72NVMA)
+* Reddit: [DecCash Reddit](https://www.reddit.com/r/deoin)
+* Whitepaper: [DecCash Whitepaper](http://deccash.info/whitepah.zip)
+* Block explorer: [DecCash Block explorer](http://explorer.deccash.org)
 
 
 ## DecCash
