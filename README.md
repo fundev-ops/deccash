@@ -1,25 +1,5 @@
 # <b>IMPORTANT ANNOUNCEMENT</b>
 
-<b>Official development moved to https://github.com/deccash-project.
-This repository won't be updated any more.</b>
-
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-<hr>
-
-
-
-
-
-
-
-
-
-
-
 
 This is the reference code for [DecCash](https://deccash.info) cryptocurrency. Read the Changelogs.txt for more info about the current fork.
 
@@ -41,15 +21,15 @@ This is the reference code for [DecCash](https://deccash.info) cryptocurrency. R
 DecCash is an ASIC resistant cryptocurrency designed for mining and perfect for rewarding
 
 - Algorithm: CryptoNightLite V1
-- Max. supply: 184,467,440,735.0
+- Max. supply: 30,000.0
 - CryptoNote name: deccash
 - Decimal points: 8
-- Block time: 90
+- Block time: 240
 - Ticker: DXC
-- Emission speed factor: 20
+- Emission speed factor: 22
 - LWMA-2 difficulty algo
-- P2P port: 17239
-- RPC port: 18238
+- P2P port: 29888
+- RPC port: 29889
 
 ## How to compile
 
