@@ -20,6 +20,7 @@ This is the reference code for [DecCash](https://deccash.com) cryptocurrency. Re
 
 DecCash is an ASIC resistant cryptocurrency designed for mining and perfect for rewarding
 
+- Coin Name: Decentralized Community Cash
 - Algorithm: CryptoNightLite V1
 - Max. supply: 30,000.0
 - CryptoNote name: deccash
