@@ -124,8 +124,8 @@ const size_t   BLOCKS_IDS_SYNCHRONIZING_DEFAULT_COUNT        =  10000;  //by def
 const size_t   BLOCKS_SYNCHRONIZING_DEFAULT_COUNT            =  100;    //by default, blocks count in blocks downloading
 const size_t   COMMAND_RPC_GET_BLOCKS_FAST_MAX_COUNT         =  1000;
 
-const int      P2P_DEFAULT_PORT                              =  29888;
-const int      RPC_DEFAULT_PORT                              =  29889;
+const int      P2P_DEFAULT_PORT                              =  63218; // 29888
+const int      RPC_DEFAULT_PORT                              =  63219; // 29889
 
 const size_t   P2P_LOCAL_WHITE_PEERLIST_LIMIT                =  1000;
 const size_t   P2P_LOCAL_GRAY_PEERLIST_LIMIT                 =  5000;
@@ -142,6 +142,6 @@ const uint64_t P2P_DEFAULT_INVOKE_TIMEOUT                    = 60 * 2 * 1000; //
 const size_t   P2P_DEFAULT_HANDSHAKE_INVOKE_TIMEOUT          = 5000;          // 5 seconds
 const char     P2P_STAT_TRUSTED_PUB_KEY[]                    = "";
 
-const char* const SEED_NODES[] = { "167.86.94.121:29888", "192.187.106.179:29888" };
+const char* const SEED_NODES[] = { "167.86.94.121:63218", "192.187.106.179:63218" };
 
 } // CryptoNote
